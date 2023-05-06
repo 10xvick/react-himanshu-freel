@@ -20,7 +20,7 @@ function App() {
   const [message2 , setMessage2] = useState('');
   const [message3 , setMessage3] = useState('');
   const [message4 , setMessage4] = useState('');
-  const [message5 , setMessage5] = useState('')
+  const [message5 , setMessage5] = useState('');
   
   return (
     <div className="App">
